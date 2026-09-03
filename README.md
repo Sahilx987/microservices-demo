@@ -1,3 +1,7 @@
+> **Note:** Application code forked from [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) (Apache 2.0 License). The DevSecOps pipeline, AWS infrastructure (Terraform), Kubernetes GitOps deployment, and security scanning setup were built independently as a portfolio project — see [online-boutique-infra](https://github.com/Sahilx987/online-boutique-infra) and [online-boutique-gitops](https://github.com/Sahilx987/online-boutique-gitops).
+
+---
+
 <!-- <p align="center">
 <img src="/src/frontend/static/icons/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
 </p> -->
